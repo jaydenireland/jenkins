@@ -89,6 +89,7 @@ THE SOFTWARE.
                     id="j_username"
                     autocorrect="off"
                     autocapitalize="off"
+                    autocomplete="off"
                     placeholder="${%Username}"
                   />
                 </div>
@@ -97,6 +98,7 @@ THE SOFTWARE.
                     class="${inputClass}"
                     type="password"
                     name="j_password"
+                    autocomplete="off"
                     placeholder="${%Password}"
                   />
                 </div>
